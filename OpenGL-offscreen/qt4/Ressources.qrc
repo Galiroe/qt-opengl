@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>texture.png</file>
+        <file>heightmap.png</file>
+        <file>vertex.glsl</file>
+        <file>fragment.glsl</file>
+        <file>normals.png</file>
+        <file>fbo.glsl</file>
+        <file>pbuffer.glsl</file>
+    </qresource>
+</RCC>
